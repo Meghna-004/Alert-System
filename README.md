@@ -20,10 +20,10 @@ VisionGuard proposes a smart alert system powered by real-time CCTV monitoring a
 
 ## Key Features (Design Highlights)
 
-- 📷 Interface for AI-powered issue detection via camera feeds  
-- 🔔 Real-time alert screens for staff  
-- 🔐 Secure login and profile access  
-- 📱 Clean, responsive mobile-first design
+-  Interface for AI-powered issue detection via camera feeds  
+-  Real-time alert screens for staff  
+-  Secure login and profile access  
+-  Clean, responsive mobile-first design
 
 ---
 
@@ -42,10 +42,10 @@ Watch the full design walkthrough on YouTube:
 
 ---
 
-## 🖼️ View Figma Prototype
+## View Figma Prototype
 
 Access the design on Figma:  
-🎨 [Open Figma Project (View Only)](https://www.figma.com/design/mSvDh8Lzu1zkXmFDLcsCW5/Untitled?node-id=96-1386&t=cMgz2gMfgzC1rTFs-1)
+[Open Figma Project (View Only)](https://www.figma.com/design/mSvDh8Lzu1zkXmFDLcsCW5/Untitled?node-id=96-1386&t=cMgz2gMfgzC1rTFs-1)
 
 ---
 
